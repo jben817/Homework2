@@ -1,0 +1,43 @@
+#footer { text-align: center;
+    background-color: gray;
+    color: honeydew;
+    margin-bottom: auto;
+    margin-top: 300px;
+}
+
+.rowindex {margin-left: auto;
+    margin-right: auto;
+    margin-top: 25mm;
+    margin-bottom: 5mm;
+    background-color: lightslategray;
+    padding-bottom: 5mm;
+}
+
+.row-cols-2 {margin-left: 25mm;
+    padding-top: 5mm;
+}
+
+.container-align { font-family: 'Shadows Into Light', cursive;
+    text-align: center;
+}
+
+.containerbottom {margin-left: auto;
+    margin-right: auto;
+    padding-top: 5mm;}
+
+.cardborder {border-style: solid;
+    border-color: black;
+    border-width: 2mm ;}
+
+.ctform {background-color: lightgray;
+    width: 500px;
+    height: 370px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5mm;
+    margin-bottom: 5mm;
+    border-style: solid;
+    border-width: 1mm;
+    border-color: black;}
+
+ button {margin-top: 2mm;}
